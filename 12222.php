@@ -1,3 +1,3 @@
 <?php
-  echo "dddddddddddddddd";
+ dddddddddddddddddd
 ?>
